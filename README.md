@@ -11,3 +11,5 @@ Alamat `amqp://guest:guest@localhost:5672` digunakan untuk menyambung ke sebuah 
 - `5672` adalah nomor port dimana komunikasi akan didengarkan.
 
 Jadi, baik publisher dan subsriber berinteraksi dengan message broker/server yang sama, mungkin pengiriman dan penerimaan pesan dari antrian yang sama.
+
+![](docs/RabbitMQ.png)
